@@ -1,0 +1,12 @@
+{
+  "integer": [
+    {
+      "name": "register_margin",
+      "value": 40
+    },
+    {
+      "name": "register_padding",
+      "value": 20
+    }
+  ]
+}

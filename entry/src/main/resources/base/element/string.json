@@ -1,0 +1,137 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "我的待办清单入口"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "我的待办清单"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "去做吧"
+    },
+    {
+      "name": "splash_tips",
+      "value": "你的任务管理小助手"
+    },
+    {
+      "name": "splash_content1",
+      "value": "不积跬步"
+    },
+    {
+      "name": "splash_content2",
+      "value": "无以至千里"
+    },
+
+    {
+      "name": "shared_desc",
+      "value": "登录"
+    },
+    {
+      "name": "account",
+      "value": "账号"
+    },
+    {
+      "name": "login_button",
+      "value": "登录"
+    },
+    {
+      "name": "register_button",
+      "value": "快速注册"
+    },
+    {
+      "name": "signing_content",
+      "value": "正在登录%s"
+    },
+    {
+      "name": "privacy_statement",
+      "value": "隐私声明"
+    },
+    {
+      "name": "verification_code_login",
+      "value": "验证码登录"
+    },
+    {
+      "name": "password",
+      "value": "密码"
+    },
+    {
+      "name": "repeat_password",
+      "value": "再次输入密码"
+    },
+    {
+      "name": "account_description",
+      "value": "登录账号以使用更多服务"
+    },
+    {
+      "name": "account_placeholder",
+      "value": "手机号、邮件地址、账号名"
+    },
+    {
+      "name": "account_password_empty",
+      "value": "账号或密码不符合格式"
+    },
+    {
+      "name": "user_exception",
+      "value": "用户异常"
+    },
+    {
+      "name": "network_error_msg",
+      "value": "网络似乎开小差了"
+    },
+    {
+      "name": "login_failed_msg",
+      "value": "登录失败， 请重试！"
+    },
+    {
+      "name": "hint_username",
+      "value": "请输入用户名"
+    },
+    {
+      "name": "hint_password",
+      "value": "请输入密码"
+    },
+    {
+      "name": "input_password_again",
+      "value": "请再次输入密码"
+    },
+    {
+      "name": "submit",
+      "value": "提交"
+    },
+    {
+      "name": "edit_user_info",
+      "value": "修改用户信息"
+    },
+    {
+      "name": "quit_login",
+      "value": "退出登录"
+    },
+    {
+      "name": "nickname",
+      "value": "用户昵称"
+    },
+    {
+      "name": "user_desc",
+      "value": "用户简介"
+    },
+    {
+      "name": "hint_nickname",
+      "value": "请输入用户昵称"
+    },
+    {
+      "name": "hint_gender",
+      "value": "请输入用户性别"
+    },
+    {
+      "name": "user_gender",
+      "value": "用户性别"
+    },
+    {
+      "name": "agree_modify",
+      "value": "确定修改"
+    }
+  ]
+}

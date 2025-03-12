@@ -1,0 +1,136 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ToDo"
+    },
+    {
+      "name": "splash_tips",
+      "value": "Your Task Helper"
+    },
+    {
+      "name": "splash_content1",
+      "value": "No step"
+    },
+    {
+      "name": "splash_content2",
+      "value": "No mile"
+    },
+    {
+      "name": "shared_desc",
+      "value": "login"
+    },
+    {
+      "name": "account",
+      "value": "Account"
+    },
+    {
+      "name": "login_button",
+      "value": "Login"
+    },
+    {
+      "name": "register_button",
+      "value": "Register"
+    },
+    {
+      "name": "signing_content",
+      "value": "Login %s"
+    },
+    {
+      "name": "privacy_statement",
+      "value": "Privacy statement"
+    },
+    {
+      "name": "verification_code_login",
+      "value": "Verification code login"
+    },
+    {
+      "name": "password",
+      "value": "Password"
+    },
+    {
+      "name": "account_description",
+      "value": "Log in to using more"
+    },
+    {
+      "name": "account_placeholder",
+      "value": "Mobile, Email, Account"
+    },
+    {
+      "name": "account_password_empty",
+      "value": "The account or password is illegal"
+    },
+    {
+      "name": "user_exception",
+      "value": "User exception"
+    },
+    {
+      "name": "network_error_msg",
+      "value": "The network seems to have deserted"
+    },
+    {
+      "name": "login_failed_msg",
+      "value": "Login failed. Please try again."
+    },
+    {
+      "name": "repeat_password",
+      "value": "input password again"
+    },
+    {
+      "name": "hint_username",
+      "value": "input username"
+    },
+    {
+      "name": "hint_password",
+      "value": "input password"
+    },
+    {
+      "name": "input_password_again",
+      "value": "input password again"
+    },
+    {
+      "name": "submit",
+      "value": "submit"
+    },
+    {
+      "name": "edit_user_info",
+      "value": "edit user info"
+    },
+    {
+      "name": "quit_login",
+      "value": "quit login"
+    },
+    {
+      "name": "nickname",
+      "value": "nickname"
+    },
+    {
+      "name": "user_desc",
+      "value": "desc"
+    },
+    {
+      "name": "hint_nickname",
+      "value": "input nickname"
+    },
+    {
+      "name": "hint_gender",
+      "value": "input gender"
+    },
+    {
+      "name": "user_gender",
+      "value": "gender"
+    },
+    {
+      "name": "agree_modify",
+      "value": "update modify"
+    }
+  ]
+}
