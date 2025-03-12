@@ -1,5 +1,10 @@
-You have to install the following components:
+### Introduction
 
-ohpm install @open/date
+**the project is for practice, use preferences to record your schedule.**
 
-ohpm install @ohos/axios
+### You have to install the following components before:
+
+**ohpm install @open/date**
+
+**ohpm install @ohos/axios**
+

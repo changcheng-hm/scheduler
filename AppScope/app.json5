@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleName": "com.example.test_step2",
+    "bundleName": "com.example.scheduler",
     "vendor": "example",
     "versionCode": 1000000,
     "versionName": "1.0.0",
